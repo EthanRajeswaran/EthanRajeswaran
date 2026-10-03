@@ -10,4 +10,4 @@
 - 🤔 I'm looking for help with pushing an app to its full course
 - 💬 Ask me about filmmaking, 3D printing, or engineering prep
 - 📫 How to reach me: ethanrajeswaran8@gmail.com
-
+- 🌐 Portfolio: [ethanrajeswaran.github.io](https://ethanrajeswaran.github.io)
